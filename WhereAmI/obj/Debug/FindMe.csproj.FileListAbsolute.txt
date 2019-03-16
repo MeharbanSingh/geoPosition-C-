@@ -1,0 +1,7 @@
+D:\geoPosition\WhereAmI\bin\Debug\WhereAmI.exe.config
+D:\geoPosition\WhereAmI\bin\Debug\WhereAmI.exe
+D:\geoPosition\WhereAmI\bin\Debug\WhereAmI.pdb
+D:\geoPosition\WhereAmI\obj\Debug\FindMe.csprojAssemblyReference.cache
+D:\geoPosition\WhereAmI\obj\Debug\FindMe.csproj.CoreCompileInputs.cache
+D:\geoPosition\WhereAmI\obj\Debug\WhereAmI.exe
+D:\geoPosition\WhereAmI\obj\Debug\WhereAmI.pdb

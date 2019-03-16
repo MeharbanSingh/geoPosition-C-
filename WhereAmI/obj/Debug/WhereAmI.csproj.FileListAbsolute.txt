@@ -1,0 +1,7 @@
+C:\Users\waraich\Downloads\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\03\Begin\CodeClinic\WhereAmI\bin\Debug\WhereAmI.exe.config
+C:\Users\waraich\Downloads\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\03\Begin\CodeClinic\WhereAmI\bin\Debug\WhereAmI.exe
+C:\Users\waraich\Downloads\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\03\Begin\CodeClinic\WhereAmI\bin\Debug\WhereAmI.pdb
+C:\Users\waraich\Downloads\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\03\Begin\CodeClinic\WhereAmI\obj\Debug\WhereAmI.csprojAssemblyReference.cache
+C:\Users\waraich\Downloads\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\03\Begin\CodeClinic\WhereAmI\obj\Debug\WhereAmI.csproj.CoreCompileInputs.cache
+C:\Users\waraich\Downloads\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\03\Begin\CodeClinic\WhereAmI\obj\Debug\WhereAmI.exe
+C:\Users\waraich\Downloads\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\03\Begin\CodeClinic\WhereAmI\obj\Debug\WhereAmI.pdb
