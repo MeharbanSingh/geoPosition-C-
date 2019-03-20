@@ -33,8 +33,8 @@ namespace WhereAmI
         private static Uri builduri(GeoCoordinate location)
         {
             #region here app id & app code
-            string hereapi_appid = "apeaVkHEM2EssN0o7hcg";
-            string hereapi_appcode = "fPaHC3OmtR1boMBY0GcdLw";
+            string hereapi_appid = ""; // I removed my app id and app code for security reason. Run this application by placing your appID and AppCode
+            string hereapi_appcode = ""; // You can generate your own app id and app code at wwww.developerhere.com
             #endregion
 
             var hereapi_dns = "image.maps.cit.api.here.com";
